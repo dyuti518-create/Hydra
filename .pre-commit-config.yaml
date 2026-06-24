@@ -18,4 +18,4 @@ repos:
         stages: [commit]
         language: system
         entry: poetry run bash shell/test.sh
-        types: [python]
+        types: [python
